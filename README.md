@@ -1,4 +1,4 @@
-# Glimmr
+# Snapgram
 
 **A high-performance full-stack social media app built with React, TypeScript, and Appwrite, featuring a sleek native-like UI and infinite scroll.**
 
@@ -17,7 +17,7 @@
 ---
 
 ## Overview
-Glimmr is a sleek, modern full-stack social media application designed to feel as smooth and responsive as native mobile apps. It leverages cutting-edge web technologies to deliver an infinite scroll UI with lightning-fast performance.
+Snapgram is a sleek, modern full-stack social media application designed to feel as smooth and responsive as native mobile apps. It leverages cutting-edge web technologies to deliver an infinite scroll UI with lightning-fast performance.
 
 ---
 
@@ -55,8 +55,8 @@ Glimmr is a sleek, modern full-stack social media application designed to feel a
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/mahianyuallan/glimmr.git
-cd glimmr
+git clone https://github.com/mahianyuallan/snapgram.git
+cd snapgram
 
 # Step 2: Install dependencies
 npm install
